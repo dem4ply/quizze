@@ -33,3 +33,13 @@ install and test
 	pip install -e ./
 	make test
 	make style_test
+
+
+=====
+about
+=====
+
+most of the tests are made using random question
+the test don't have this characteristic is in `tests/test_school.py`
+
+my assumptions are in `quizze/__init__.py` with all the classes
